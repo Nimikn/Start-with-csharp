@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sasha\pairs\bin\Debug\net6.0\pairs.exe
+C:\Users\Dell\source\repos\Sasha\pairs\bin\Debug\net6.0\pairs.deps.json
+C:\Users\Dell\source\repos\Sasha\pairs\bin\Debug\net6.0\pairs.runtimeconfig.json
+C:\Users\Dell\source\repos\Sasha\pairs\bin\Debug\net6.0\pairs.dll
+C:\Users\Dell\source\repos\Sasha\pairs\bin\Debug\net6.0\pairs.pdb
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.dll
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\refint\pairs.dll
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.pdb
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\pairs.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sasha\pairs\obj\Debug\net6.0\ref\pairs.dll

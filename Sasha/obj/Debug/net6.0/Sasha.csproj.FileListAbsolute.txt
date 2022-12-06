@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Sasha\Sasha\bin\Debug\net6.0\Sasha.exe
+C:\Users\Dell\source\repos\Sasha\Sasha\bin\Debug\net6.0\Sasha.deps.json
+C:\Users\Dell\source\repos\Sasha\Sasha\bin\Debug\net6.0\Sasha.runtimeconfig.json
+C:\Users\Dell\source\repos\Sasha\Sasha\bin\Debug\net6.0\Sasha.dll
+C:\Users\Dell\source\repos\Sasha\Sasha\bin\Debug\net6.0\Sasha.pdb
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.dll
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\refint\Sasha.dll
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.pdb
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\Sasha.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Sasha\Sasha\obj\Debug\net6.0\ref\Sasha.dll
